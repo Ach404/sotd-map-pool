@@ -1,2 +1,4 @@
 # OIF - SOTD Map Pool
-# PLAN 1
+Plan 1
+- Make user register/login
+- Submit map to DB
